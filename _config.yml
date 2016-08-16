@@ -16,8 +16,5 @@ navigation:
   - name: About Us
     url: 'http://aboutus.com'
     type: external
-  - name: Contact Us
-    url: 'http://contact.com'
-    type: external
 title: LOWER MAINLAND MARKETING AND CONSULTING
 description: Strategic Brand Planning & Execution
