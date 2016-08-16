@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T17:39:54.392Z'
+datePublished: '2016-08-16T17:49:10.599Z'
 sourcePath: _posts/2016-04-16-y-3-launches-y-3-sport.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-16T17:39:53.850Z'
+via: {}
+dateModified: '2016-08-16T17:49:09.999Z'
 title: LMMC Strategic Brand Planning
 app_links: []
 publisher:
@@ -37,7 +38,6 @@ description: >-
   sport line.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
