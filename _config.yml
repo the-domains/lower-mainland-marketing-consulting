@@ -12,9 +12,5 @@ color:
     - '#011C26'
 layout_spectrum: 0.849116729805246
 name: Lower Mainland Marketing & Consulting
-navigation:
-  - name: About Us
-    url: 'http://aboutus.com'
-    type: external
 title: LOWER MAINLAND MARKETING AND CONSULTING
 description: Strategic Brand Planning & Execution
