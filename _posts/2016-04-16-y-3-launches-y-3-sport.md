@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T01:19:01.089Z'
+datePublished: '2016-08-16T17:39:54.392Z'
 sourcePath: _posts/2016-04-16-y-3-launches-y-3-sport.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,13 +21,13 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-30T01:19:00.748Z'
-title: Y-3 Launches Y-3 Sport
+dateModified: '2016-08-16T17:39:53.850Z'
+title: LMMC Strategic Brand Planning
 app_links: []
 publisher:
-  name: Cool Hunting
+  name: Lisa Halpern
   domain: www.coolhunting.com
-  url: 'http://www.coolhunting.com'
+  url: 'http://www.lowermainlandmarketing.com/'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
 description: >-
   Though Y-3 is a beautiful collaboration between avant-garde Japanese designer
@@ -37,9 +37,10 @@ description: >-
   sport line.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Y-3 Launches Y-3 Sport</h1><p>Though Y-3 is a beautiful collaboration between avant-garde Japanese designer Yohji Yamamoto and global sportswear brand adidas, surprisingly, it's always been a fashion-first line. After 15 years, Yamamoto has thought it the proper time to go deep into Y-3's DNA and design its first-ever fully functional sport line.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ad461f62031730d604252b2e606f50cc4dbdcd.jpg" /></article>
+![We'll conduct market research to determine how to best reach your company's goals. Understanding your target market's buying behaviours and economic factors that will effect your business is imperative to the financial success of your company. There may even be an untapped market you have not pursued.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12c07d6e-3535-4685-8fb9-9df80d057492.png)
